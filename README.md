@@ -1,3 +1,4 @@
+![WhatsApp Image 2025-09-17 at 22 54 38_07996de1](https://github.com/user-attachments/assets/12c21e8b-4b90-49e1-8251-58792848881e)
 # 👋 Hi, I’m Kingsley Munachi  
 
 🚀 *AI Web App Designer & Software Developer*  
