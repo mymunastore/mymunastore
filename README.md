@@ -57,7 +57,7 @@ Full-stack task management app.
 ## 📫 Connect With Me
 - 📧 Email: [info@mymuna.store](mailto:info@mymuna.store)  
 - 🔗 LinkedIn: [Kingsley Munachi](https://www.linkedin.com/in/kingsley-munachi-843591244/)  
-- 🌐 Portfolio: [mymuna.store](https://mymuna.store)  
+- 🌐 Portfolio: [mymuna.store](https://munAi.Tech)  
 
 ---
 ⭐ “Building the future of AI-powered applications, one project at a time.”
