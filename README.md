@@ -1,5 +1,3 @@
-![Portrait passport ](https://github.com/user-attachments/assets/20ae8cf6-c469-494b-a894-400fde661336)
-
 # 👋 Hi, I’m Kingsley Munachi  
 
 🚀 *AI Web App Designer & Software Developer*  
